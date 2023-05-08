@@ -1,2 +1,2 @@
-# projeto-apeperia-Alura
-Site criando durante curso de Layout responsivo
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
